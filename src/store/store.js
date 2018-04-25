@@ -4,6 +4,7 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 import snapshot from './plugins/vuex-snapshot'
+// import snapshot from 'vuex-snapshot-plugin' npm安装包的形式引入插件
 
 Vue.use(Vuex)
 
